@@ -1,8 +1,10 @@
-# Module 3 Practice Problems
+# Module 3 - Logic and Loops
 
 ## Author
 
 Ivan Estropigan
+
+## Module 3 Practice Questions
 
 - Question 1
 
@@ -113,8 +115,6 @@ Write a program that uses a for loop to output the product of all the integers b
 - Question 21
 
 Write a program that uses a for loop to count how many multiples of 7 are between 33 and 97, inclusive.
-
-
 
 - Question 22
 
